@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+}
+
+.obsah{
+    text-align: center;
+}
+
+a{
+    color: green;
+}
+
+a:hover{
+    color: yellow;
+}
